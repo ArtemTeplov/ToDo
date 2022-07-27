@@ -1,3 +1,3 @@
-ToDo App
+ToDo App Добавлен таймер
 
-https://todo-pqpa4pb6n-artemteplov.vercel.app/
+https://todo-orcin-three.vercel.app/
